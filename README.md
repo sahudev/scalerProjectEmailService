@@ -1,5 +1,11 @@
 # Email Service - E-commerce Microservice
 
+Note: Please refer all these repos for the complete project 
+https://github.com/sahudev/scalerProjectUserService; 
+https://github.com/sahudev/scalerProjectPaymentService; 
+https://github.com/sahudev/scalerProjectProductService; 
+https://github.com/sahudev/scalerProjectEmailService;
+
 ## Overview
 The **Email Service** is a core component of the e-commerce microservices architecture, responsible for sending transactional emails such as order confirmations, payment receipts, and account-related notifications. This service integrates seamlessly with other microservices like the **Product Service**, **User Service**, and **Payment Service** to provide real-time email notifications to users.
 
